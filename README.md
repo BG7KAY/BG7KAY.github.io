@@ -12,7 +12,6 @@ QTH: OL26wn
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-85M369GVEJ');
 </script>
 </div>
