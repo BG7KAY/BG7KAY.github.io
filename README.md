@@ -1,6 +1,6 @@
 # CQCQCQ
 
-This is BG7KAY.
+This is BG7KAY. Contact me by Gmail: BG7KAY 
 
 QTH: OL26wn 
 
